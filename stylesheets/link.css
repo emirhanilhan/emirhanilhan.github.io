@@ -1,0 +1,40 @@
+/* LINK FORMATTING */
+a {
+    color: #39c;
+}
+
+a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:  #283747 ;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a1 {
+    color: black;
+}
+
+a1:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a1:hover {
+  color:  gray ;
+  background-color: transparent;
+  text-decoration: none;
+}
+a1:active {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+}
