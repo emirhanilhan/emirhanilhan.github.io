@@ -18,8 +18,11 @@ body {
   padding:50px;
   font: 16px     'Jost', 'Lato',  'Calibri';
   color: black;
+  padding:50px;
+  font-weight:400;
   -webkit-font-smoothing: antialiased;
 }
+
 
 /* TITLE FORMATTING (left column, name-last name)*/
 h1 {
@@ -33,6 +36,9 @@ h2 {
   line-height:1.1;
 }
 
+img {
+  max-width:100%;
+}
 
 .collapsible {
   background-color: transparent;
