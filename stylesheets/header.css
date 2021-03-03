@@ -3,7 +3,7 @@
 /* header refers to the left column */
 header {
   width:270px;
-  float:left;
+  float:center;
   position:fixed;
   /*left:100px;  Use if you want to move the left column to the left */
   -webkit-font-smoothing:subpixel-antialiased;
