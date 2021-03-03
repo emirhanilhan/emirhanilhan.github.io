@@ -1,0 +1,14 @@
+
+section {
+  width:500px;
+  float:right;
+/*  position:fixed;
+  left:450px; */
+}
+
+section ul {
+	list-style-type: square;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:16px;
+}
