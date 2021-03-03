@@ -37,6 +37,8 @@
 
 
 
+
+
     <meta name="viewport" content="width=device-width">
 	<meta name="google-site-verification" content="CXW17yCRmsHT-UKe8B86505WLbEk21wxSEEs20nAokY" />
 
@@ -136,7 +138,7 @@
       <li>
         Sea Level Rise and Portfolio Choice
 
-        <p style="margin-bottom:-5px"><p>
+        <p style="margin-bottom:-5px"></p>
 
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3743046" title="Sea Level Rise and Portfolio Choice" target="_blank">
         <b style="color:black"><i class="fa fa-file-pdf-o"></i> SSRN</b></a> |
@@ -148,16 +150,18 @@
           </p>
         </div>
 
+
       </li>
 
-
+      <p></p>
 
 
       <li>
-        Climate Risk Disclosure and Institutional Investors<br>(with Philipp Krueger, Zacharias Sautner, and Laura Starks)<br>
+        Climate Risk Disclosure and Institutional Investors<br>
+        (with Philipp Krueger, Zacharias Sautner, and Laura Starks)<br>
         <b>Review of Financial Studies</b>, <i>R&R</i>
 
-        <p style="margin-bottom:-5px"><p>
+        <p style="margin-bottom:-5px"></p>
 
 
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3437178" title="Climate Risk Disclosure and Institutional Investors" target="_blank">
@@ -170,6 +174,8 @@
           </p>
         </div>
 
+
+
       </li>
     </ol>
 
@@ -177,10 +183,9 @@
 
 
 
-</section>
+      </section>
 
-  </body>
-
+</body>
 
 <script src="javascripts/button-collapsible.js"></script>
 
@@ -191,5 +196,10 @@
     });
 </script>
 
+<script>
+    $('.card-header').click(function() {
+        $(this).find('i').toggleClass('fas fa-plus fas fa-minus');
+    });
+</script>
 
 </html>
