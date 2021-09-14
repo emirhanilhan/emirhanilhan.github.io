@@ -1,6 +1,7 @@
-
+/* section refers to the right column */
 section {
-  width:500px;
+  width:630px;
+  /*width:500px;*/ /*original was 500px*/
   float:right;
   padding-bottom:50px;
 /*  position:fixed;
