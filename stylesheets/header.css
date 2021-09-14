@@ -1,8 +1,7 @@
-
-
 /* header refers to the left column */
 header {
-  width:270px;
+  width:270px; /**/
+  /*width:270px;*/ /*original was 270px*/
   float:left;
   position:fixed;
   /*left:100px;  Use if you want to move the left column to the left */
