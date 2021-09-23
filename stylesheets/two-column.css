@@ -1,0 +1,33 @@
+/***************************************/
+/* Write References next to each other */
+/***************************************/
+.first-second {
+  width: 310px;
+  /*padding: 0 10px 0 0;*/
+  padding-bottom: 12px;
+  float: left;
+}
+
+.second-second {
+  width: 300px;
+  /*padding: 0 10px 0 0;*/
+  padding-bottom: 12px;
+  float: left;
+}
+
+@media only screen and (max-width: 986px) {
+
+  .first-second {
+      width: 100%;
+      padding-bottom: 10px;
+      float: none;
+  }
+
+  .second-second {
+      width: 100%;
+      padding-bottom: 10px;
+      float: none;
+  }
+
+
+}
