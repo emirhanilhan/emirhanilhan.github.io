@@ -1,7 +1,7 @@
 /* LINK FORMATTING */
 a {
-    /*color: #39c;*/ /* paulgp Blue*/ 
-    color:royalblue
+    /* paulgp Blue: #39c, or use royalblue*/ 
+    color:#39c;
 }
 
 a:link {
