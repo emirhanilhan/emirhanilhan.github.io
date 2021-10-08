@@ -21,8 +21,8 @@ body {
   font: 16px     'Source Sans Pro', 'Jost', 'Lato', 'Calibri';
   color: black;
   padding:50px;
-  font-weight:400;
-  -webkit-font-smoothing: antialiased;
+  /* font-weight:400; */
+
 }
 
 
@@ -44,7 +44,7 @@ img {
 
 .collapsible {
   background-color: transparent;
-  font: 16px     'Source Sans Pro', 'Jost', 'Lato',  'Calibri';
+  font: 14px     'Source Sans Pro', 'Jost', 'Lato',  'Calibri';
   color: black;
   cursor: pointer;
   width:95px;
@@ -67,7 +67,6 @@ img {
   max-width:550px;
   /*max-width: 450px;*/ /*original is max-width: 450px;*/
   overflow: hidden;
-  font-size: 14px;
   transition: max-height 0.2s ease-out;
-
+  font-size:13px;
 }
