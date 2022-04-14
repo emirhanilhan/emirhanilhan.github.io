@@ -6,28 +6,5 @@
     <description>Recent content in Research on Emirhan İlhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://emirhanilhan.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publications</title>
-      <link>https://emirhanilhan.github.io/research/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emirhanilhan.github.io/research/publications/</guid>
-      <description>1. Carbon Tail Risk, w/ Zacharias Sautner and Grigory Vilkov Review of Financial Studies, March 2021, 34(3), 1540-1571.
-- IQ-KAP ESG Research Prize - ESG Special Award 
-AbstractStrong regulatory actions are needed to combat climate change, but uncertainty makes it difficult for investors to quantify the impact of future climate regulation. We show that climate policy uncertainty is priced in the option market. The cost of option protection against downside tail risks is larger for firms with more carbon-intense business models.</description>
-    </item>
-    
-    <item>
-      <title>Working Papers</title>
-      <link>https://emirhanilhan.github.io/research/working-papers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emirhanilhan.github.io/research/working-papers/</guid>
-      <description>1. Climate Risk Disclosure and Institutional Investors, w/ Philipp Krueger, Zacharias Sautner, and Laura Starks
-Review of Financial Studies, Revise and Resubmit
-- Finalist for the John L. Weinberg/IRRCi Research Award 
-AbstractEmploying disclosure theory, we develop hypotheses regarding the preferences of institutional investors with respect to firms’ climate risk disclosures. Through a survey and empirical tests, we test these hypotheses and provide systematic evidence suggesting that institutional investors value and demand climate risk disclosures, that climate-specific disclosure costs and benefits affect these demands, and that influence and selection effects explain the equilibrium relations between institutional ownership and disclosure.</description>
-    </item>
-    
   </channel>
 </rss>
