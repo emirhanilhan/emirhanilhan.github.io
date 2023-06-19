@@ -1,0 +1,16 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-list{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<span class="overview">{{ .Title }}</span>
+<p style="padding-bottom: 20px;"></p>
+<div class="content" style="text-align:justify">
+  {{ .Content }}
+</div>
+
+<!-- {{ range.Pages }}
+{{ .Render "summary" }}
+{{ end }} -->
+
+{{ end }}
